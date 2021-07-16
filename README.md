@@ -3,9 +3,9 @@ An Android App to manage all
 # ScreenShots
 | | | |
 |---|---|---|
-|DashBoard Screen|User Choice Window| |
+| DashBoard Screen | Sales | Buying Window |
 | ![](MAD_SS/ss_1.jpg)|![](MAD_SS/ss_2.jpg)|![](MAD_SS/ss_3.jpg)|
-|||
+| Orders | Inventory |
 | ![](MAD_SS/ss_4.jpg)|![](MAD_SS/ss_5.jpg)|
 
 
